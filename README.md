@@ -53,7 +53,7 @@ You can get it for free at [openweathermap.org](https://openweathermap.org/api).
 
 | Main Screen | Not Found | Forecast |
 |-------------|-----------|----------|
-| ![](assets/message/search-city.png) | ![](assets/message/not-found.png) | <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ff62e89-02f4-4c60-8fb9-f2db8fbcfae0" />|
+| ![](assets/message/search-city.png) | <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2c0904b-093c-4986-b59e-3c6b88b693b6" />| <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ff62e89-02f4-4c60-8fb9-f2db8fbcfae0" />|
 
 ---
 
