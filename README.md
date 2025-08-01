@@ -37,14 +37,6 @@ Then open `index.html` in your browser.
 
 ---
 
-## 🌍 Live Demo
-
-> 🔗 [Click here to view live](https://your-username.github.io/weather-app/)
-
-*(Replace with your actual GitHub Pages link once deployed)*
-
----
-
 ## 🔑 API Key
 
 This project uses OpenWeather API. You need to add your API key in `script.js`:
