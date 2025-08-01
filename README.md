@@ -1,11 +1,6 @@
 # 🌦️ Weather App
 A simple, beautiful weather forecast app built using **HTML, CSS, JavaScript**, and the **OpenWeather API**. 🌤️
 
-![App Screenshot]
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7694c2e9-fe28-423c-a4af-8743c691af64" />
-
----
-
 ## 🚀 Features
 
 - 🔍 Search any city’s weather
@@ -53,7 +48,7 @@ You can get it for free at [openweathermap.org](https://openweathermap.org/api).
 
 | Main Screen | Not Found | Forecast |
 |-------------|-----------|----------|
-| ![](assets/message/search-city.png) | <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2c0904b-093c-4986-b59e-3c6b88b693b6" />| <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ff62e89-02f4-4c60-8fb9-f2db8fbcfae0" />|
+| <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a98d64b9-76f4-4f9e-b98f-0460837da793" />| <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2c0904b-093c-4986-b59e-3c6b88b693b6" />| <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ff62e89-02f4-4c60-8fb9-f2db8fbcfae0" />|
 
 ---
 
