@@ -1,10 +1,8 @@
-# weather-app
-A responsive and aesthetic weather app using OpenWeather API — featuring live conditions, forecasts, and dynamic UI built with HTML, CSS &amp; JS.
 # 🌦️ Weather App
-
 A simple, beautiful weather forecast app built using **HTML, CSS, JavaScript**, and the **OpenWeather API**. 🌤️
 
 ![App Screenshot](assets/message/search-city.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7694c2e9-fe28-423c-a4af-8743c691af64" />
 
 ---
 
