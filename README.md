@@ -57,4 +57,4 @@ You can get it for free at [openweathermap.org](https://openweathermap.org/api).
 This project is **not open source**.  
 All rights are reserved to the creator. You may **not copy, reproduce, distribute, modify, or reuse** any part of this project without **explicit permission**.
 
-© 2025 [Your Name]
+© 2025 Bhavkirat
