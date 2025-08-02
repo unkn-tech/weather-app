@@ -14,7 +14,7 @@ const weatherSummaryImg=document.querySelector('.weather-summary-img')
 const currentDateTxt=document.querySelector('.current-date-txt')
 
 const forecastItemsContainer=document.querySelector('.forecast-items-container')
-const apiKey='8c94fbcb98b6e97439d2c87f754ff634'
+const apiKey='YOUR-API-KEY-HERE'
 searchBtn.addEventListener('click',()=>{
     if(cityInput.value.trim()!=''){
         updateWeatherInfo(cityInput.value)
@@ -132,5 +132,6 @@ function showDisplaySection(section){
        .forEach(section=>section.style.display='none')
     
     section.style.display='flex'
+
 
 }
